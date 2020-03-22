@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# #zdolnizdalni
 
-You can use the [editor on GitHub](https://github.com/dekoza/zdolnizdalni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pomagamy szkołom zdobyć sprzęt dla swoich uczniów.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Chcę pomóc
 
-### Markdown
+Świetnie!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jeśli masz sprzęt typu laptop czy tablet, który **działa** oraz spełnia poniższe wymagania, odbierzemy go od Ciebie i przekażemy potrzebującej osobie.
 
-```markdown
-Syntax highlighted code block
+## Minimalne parametry sprzętu:
 
-# Header 1
-## Header 2
-### Header 3
+Pracujemy nad ich określeniem
 
-- Bulleted
-- List
+## Potrzebuję pomocy
 
-1. Numbered
-2. List
+Jeśli jesteś uczniem, zgłoś się do swojego wychowawcy. Jeśli jesteś rodzicem, zgłoś się do wychowawcy swojego dziecka.
 
-**Bold** and _Italic_ and `Code` text
+Jeśli jesteś pracownikiem szkoły, najlepiej poproś dyrekcję o kontakt z nami.
 
-[Link](url) and ![Image](src)
-```
+## Kontakt
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Pomysłodawcą akcji jest Łukasz Krebok
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dekoza/zdolnizdalni/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prosimy o kontakt pod adresem: lukasz@dailyweb.pl
