@@ -22,11 +22,13 @@ Poniższe minimalne parametry pozwolą na udział w zajęciach online:
 - 4GB RAM
 - Procesor i5
 - Dysk 100 GB
+- System: Linux lub Windows (z ważną licencją!)
 
 ### Tablet
 
-- Android
-- 1.2 GHz, 1.5 GB RAM
+- System: Android
+- Procesor: 1.2 GHz
+- 1.5 GB RAM
 
 ## Potrzebuję pomocy
 
