@@ -3,11 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-# Dołącz do ogólnopolskiej akcji
+# Dołącz do ogólnopolskiej akcji społeczniej
 
 ## Misja
 
-Pomagamy koordynować przekazywanie szkołom sprzętu komputerowego na potrzeby zdalnej edukacji.
+`#zdolnizdalni` - akcja społeczna. Chcemy połączyć ludzi posiadających zbędne
+laptopy/tablety ze szkołami w potrzebie, aby umożliwić równe szanse w edukacji.
 
 ## Chcę pomóc
 
