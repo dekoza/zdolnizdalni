@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-# Dołącz do ogólnopolskiej akcji społeczniej
+# Ogólnopolska akcja społeczna
 
 ## Misja
 
