@@ -75,3 +75,16 @@ Prosimy o kontakt pod adresem: lukasz@dailyweb.pl
 - Pomysłodawca: [Łukasz Krebok](https://www.linkedin.com/in/lukaszkrebok/)
 - Konsultacja prawna: [Cezary Zapała](https://www.linkedin.com/in/cezaryzapala/)
 - Sprawy techniczne: [Dominik Kozaczko](https://www.linkedin.com/in/dkozaczko/)
+- Pomoc językowa + [infografika](/pliki/infografika.jpg): [Alicja Górska](https://www.linkedin.com/in/alicjagorska/)
+
+## Oświadczenie
+
+Jest to akcja społeczna. Jako organizatorzy nie czerpiemy z niej żadnych korzyści.
+Nie przechowujemy danych. Naszym celem jest połączenie osób posiadających zbędny,
+ale sprawny sprzęt komputerowy oraz placówek oświaty, które wiedzą, że ich uczniowie
+mają utrudniony dostęp do edukacji online. Przerzucamy odpowiedzialność na was,
+chcemy pozostać transparentni. Jednocześnie chcemy dać wszelkie potrzebne materiały
+do przekazania sprzętu. Stąd wzór umowy darowizny oraz użyczenia sprzętu.
+Darczyńco, pamiętaj, że darowanego sprzętu już nie będziesz mógł odzyskać.
+Szkoło, wiemy, że zapotrzebowanie może okazać się ogromne. 
+Podaj nam ilość najpilniejszych przypadków wśród swoich uczniów.
