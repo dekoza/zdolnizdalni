@@ -55,7 +55,6 @@ keep = [
     "ulica",
     "numer_domu",
     "telefon",
-    "fax",
     "www",
 ]
 to_drop = set(names) - set(keep)
@@ -65,7 +64,7 @@ def read_file(path):
     return pd.read_excel(path, skiprows=2, header=6, index_col=0, names=names,)
 
 
-def drop_unneeded(dataframe):
+def prepare(dataframe):
     dataframe = dataframe.loc[lambda x: x.publicznosc == 1].loc[
         lambda x: x.kat_uczniow == 1
     ]
@@ -73,7 +72,12 @@ def drop_unneeded(dataframe):
     df1 = dataframe.loc[lambda x: x.typ == 3]
     df2 = dataframe.loc[lambda x: x.typ == 14]
 
-    return df1.merge(df2, how="outer").drop(columns=to_drop)
+    result = df1.merge(df2, how="outer").drop(columns=to_drop)
+
+    result.insert(0, "potrzeby_komp", None)
+    result.insert(1, "potrzeby_net", None)
+
+    return result
 
 
 def main():
@@ -83,7 +87,7 @@ def main():
     with pd.ExcelWriter(outpath / "result.xls") as writer:
         for file in (f for f in incoming if f.endswith(".xls")):
             name, _ = file.split(".")
-            df = drop_unneeded(read_file(inpath / file))
+            df = prepare(read_file(inpath / file))
             df.to_excel(writer, sheet_name=name)
 
 
