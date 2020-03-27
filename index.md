@@ -10,18 +10,20 @@
 `#zdolnizdalni` - akcja społeczna. Chcemy połączyć ludzi posiadających zbędne
 laptopy/tablety ze szkołami w potrzebie, aby umożliwić równe szanse w edukacji.
 
+[**Lista potrzeb szkół**](https://drive.google.com/file/d/1emVrkIOtVPIaPXTu72akmSYMMue1Hvey/view?usp=sharing)
+
 ## Chcę pomóc
 
 Świetnie, dziękujemy!
 
-Jeśli masz sprzęt typu laptop czy tablet, który **działa** oraz spełnia poniższe
-wymagania, skontaktuj się z nami podając miejsce przebywania.
-Poinformujemy Cię, które z najbliższych szkół potrzebują Twojego sprzętu.
-Ze względów logistycznych prosimy o osobiste dostarczanie sprzętu
-w uzgodnieniu z dyrekcją wybranej szkoły. Prosimy, by był on czysty zarówno fizycznie,
-jak i cyfrowo.
+Nawet nie mając sprzętu możesz pomóc - poinformuj o naszej akcji na swoich profilach w mediach społecznościowych.
+Użyj hasztagu `#zdolnizdalni`. Możesz też użyć naszej [infografiki](/pliki/infografika.jpg). 
 
-Już wkrótce usprawnimy ten proces udostępniając listę placówek wraz z ich potrzebami.
+Jeśli masz zbędny sprzęt typu laptop czy tablet, który **działa** oraz spełnia poniższe
+wymagania, zobacz [listę zapotrzebowania szkół](https://drive.google.com/file/d/1emVrkIOtVPIaPXTu72akmSYMMue1Hvey/view?usp=sharing),
+znajdź najbliższą szkołę (każde województwo w osobnej zakładce) i skontaktuj się z nią bezpośrednio.
+
+Zrobimy co w naszej mocy, by dane o zapotrzebowaniu były aktualne.
 
 **UWAGA!** Jeśli chesz przekazać sprzęt od firmy, skonsultuj się z prawnikiem/księgową,
 by uniknąć problemów z fiskusem. Pomocnym moze okazać się [wzór umowy darowizny](/pliki/Umowa-darowizna.rtf).
@@ -36,6 +38,7 @@ Poniższe minimalne parametry pozwolą na udział w zajęciach online:
 - Procesor i5
 - Dysk 100 GB
 - System: Linux lub Windows (z ważną licencją!)
+- Mile widziany modem LTE
 
 ### Tablet
 
@@ -61,10 +64,21 @@ Można też wykorzystać [wzór umowy użyczenia](/pliki/Umowa-uzyczenia.rtf).
 
 ## Pliki do pobrania
 
+### Wzory umów
 Nasz prawnik przygotował przydatne wzory umów:
 
 - [Wzór umowy darowizny](/pliki/Umowa-darowizna.rtf)
 - [Wzór umowy użyczenia](/pliki/Umowa-uzyczenia.rtf)
+
+### Lista zapotrzebowania szkół
+
+- [Lista potrzeb](https://drive.google.com/file/d/1emVrkIOtVPIaPXTu72akmSYMMue1Hvey/view?usp=sharing)
+
+### Materiały promocyjne
+
+- [Infografika - plakat (PDF)](/pliki/infografika.pdf)
+- [Infografika - obrazek (JPG)](/pliki/infografika.jpg)
+
 
 ## Kontakt
 
