@@ -84,7 +84,7 @@ def main():
     outpath = Path("./output")
     incoming = os.listdir("./input/")
     with pd.ExcelWriter(outpath / "result.xls") as writer:
-        for file in (f for f in incoming if f.endswith(".xls")):
+        for file in (f for f in sorted(incoming) if f.endswith(".xls")):
             name, _ = file.split(".")
             df = prepare(read_file(inpath / file))
             df.to_excel(writer, sheet_name=name)
